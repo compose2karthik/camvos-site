@@ -1,0 +1,4 @@
+.output.orbit{width:285px;max-width:90%;padding:0 0 12px;background:#0b1020;color:white;transform:none;border-radius:12px;overflow:hidden}
+.output.orbit video{display:block;width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;background:#0b1020}
+.output.orbit .sample>span{font-size:8px;letter-spacing:.12em}
+@media(max-width:760px){.output.orbit{width:240px}.format-rail{flex-wrap:wrap}}
